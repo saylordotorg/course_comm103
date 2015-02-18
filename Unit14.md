@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM103: Introduction to Mass Media"
+course_description: "A comprehensive examination of the evolution and impact of the media, primarily in the United States, which should lead you to reflect upon how your viewpoints are shaped by and can shape the media with which you interact."
+next: ../Unit15
+previous: ../Unit13
+---
 **Unit 14: Media and Government** <span id="14"></span> 
 *To truly understand the media and its role in society, it is necessary
 to look beyond its history and development and into the other factors

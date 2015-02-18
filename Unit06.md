@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM103: Introduction to Mass Media"
+course_description: "A comprehensive examination of the evolution and impact of the media, primarily in the United States, which should lead you to reflect upon how your viewpoints are shaped by and can shape the media with which you interact."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Music** <span id="6"></span> 
 *This unit looks at the first media industry the course will examine
 that did not arise from the technology of the printing press.  The title

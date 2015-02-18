@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM103: Introduction to Mass Media"
+course_description: "A comprehensive examination of the evolution and impact of the media, primarily in the United States, which should lead you to reflect upon how your viewpoints are shaped by and can shape the media with which you interact."
+next: ../Unit14
+previous: ../Unit12
+---
 **Unit 13: Ethics of Mass Media** <span id="13"></span> 
 *Many argue that in a just world, business and ethics should go hand in
 hand, that social responsibility is just as important as profitability,

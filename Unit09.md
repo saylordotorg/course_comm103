@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM103: Introduction to Mass Media"
+course_description: "A comprehensive examination of the evolution and impact of the media, primarily in the United States, which should lead you to reflect upon how your viewpoints are shaped by and can shape the media with which you interact."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Television** <span id="9"></span> 
 *Television, and its many programming formats, can be considered to
 represent an accumulation of several media industries into a single

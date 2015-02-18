@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM103: Introduction to Mass Media"
+course_description: "A comprehensive examination of the evolution and impact of the media, primarily in the United States, which should lead you to reflect upon how your viewpoints are shaped by and can shape the media with which you interact."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Electronic Games and Entertainment** <span id="10"></span> 
 *The author of this course’s textbook makes an interesting point about
 electronic games, which you should appreciate as you work through this

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM103: Introduction to Mass Media"
+course_description: "A comprehensive examination of the evolution and impact of the media, primarily in the United States, which should lead you to reflect upon how your viewpoints are shaped by and can shape the media with which you interact."
+next: ../Unit16
+previous: ../Unit14
+---
 **Unit 15: The Future of Mass Media** <span id="15"></span> 
 *Perhaps the best way to consider the future of the media, the focus of
 this unit, is to consider how it may affect you.  This unit wraps up the

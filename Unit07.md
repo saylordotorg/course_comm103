@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM103: Introduction to Mass Media"
+course_description: "A comprehensive examination of the evolution and impact of the media, primarily in the United States, which should lead you to reflect upon how your viewpoints are shaped by and can shape the media with which you interact."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Radio** <span id="7"></span> 
 *This unit reviews the history of radio, but you might want to consider
 that history as more of a bridge between what had been the role of media

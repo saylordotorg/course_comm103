@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM103: Introduction to Mass Media"
+course_description: "A comprehensive examination of the evolution and impact of the media, primarily in the United States, which should lead you to reflect upon how your viewpoints are shaped by and can shape the media with which you interact."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Magazines** <span id="5"></span> 
 *There is a reason why magazines follow newspapers in the order through
 which you are encountering media industries: magazines and newspapers

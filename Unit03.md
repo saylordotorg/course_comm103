@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM103: Introduction to Mass Media"
+course_description: "A comprehensive examination of the evolution and impact of the media, primarily in the United States, which should lead you to reflect upon how your viewpoints are shaped by and can shape the media with which you interact."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Books** <span id="3"></span> 
 *This unit is the first of nine that focuses on a single media industry;
 as a result, you will discover that each unit hereafter proceeds in a
