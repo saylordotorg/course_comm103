@@ -147,3 +147,21 @@ additional guides to help you focus on important aspects of the readings
 and study for the final exam.  
     
 
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/comm103/Unit01/)
+- [Unit 2](https://legacy.saylor.org/comm103/Unit02/)
+- [Unit 3](https://legacy.saylor.org/comm103/Unit03/)
+- [Unit 4](https://legacy.saylor.org/comm103/Unit04/)
+- [Unit 5](https://legacy.saylor.org/comm103/Unit05/)
+- [Unit 6](https://legacy.saylor.org/comm103/Unit06/)
+- [Unit 7](https://legacy.saylor.org/comm103/Unit07/)
+- [Unit 8](https://legacy.saylor.org/comm103/Unit08/)
+- [Unit 9](https://legacy.saylor.org/comm103/Unit09/)
+- [Unit 10](https://legacy.saylor.org/comm103/Unit10/)
+- [Unit 11](https://legacy.saylor.org/comm103/Unit11/)
+- [Unit 12](https://legacy.saylor.org/comm103/Unit12/)
+- [Unit 13](https://legacy.saylor.org/comm103/Unit13/)
+- [Unit 14](https://legacy.saylor.org/comm103/Unit14/)
+- [Unit 15](https://legacy.saylor.org/comm103/Unit15/)
+- [Unit 16](https://legacy.saylor.org/comm103/Unit16/)
