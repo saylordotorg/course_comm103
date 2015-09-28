@@ -182,3 +182,4 @@ and study for the final exam.
 - [Unit 14](https://legacy.saylor.org/comm103/Unit14/)
 - [Unit 15](https://legacy.saylor.org/comm103/Unit15/)
 - [Unit 16](https://legacy.saylor.org/comm103/Unit16/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/COMM/COMM103/COMM103-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/COMM/COMM103/COMM103-FinalExam-Answers.html)
