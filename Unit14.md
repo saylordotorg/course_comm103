@@ -65,7 +65,7 @@ Upon completion of this unit, the student will be able to:
     Media”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 15, Section 1: Government Regulation of
-    Media”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Media”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -168,7 +168,7 @@ of deregulation with respect to media industries.*
     Messages”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 15, Section 2: The Law and Mass Media
-    Messages”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Messages”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -223,7 +223,7 @@ id="14.2.6"></span> 
     Speech”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 15, Section 3: Censorship and Freedom of
-    Speech”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Speech”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -284,7 +284,7 @@ id="14.4"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 15, Section 4: Intellectual Property
     Issues in the Mass
-    Media”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Media”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -352,7 +352,7 @@ id="14.5"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 15, Section 5: Digital Democracy and Its
     Possible
-    Effects”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Effects”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -420,7 +420,7 @@ ubiquitous?  Is this good or bad?  Why?*
     Government”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 15, Section 6: Media Influence on Laws and
-    Government”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Government”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the

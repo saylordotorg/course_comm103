@@ -62,7 +62,7 @@ id="1.1"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 1, Section 1: Intersection of American
     Media and
-    Culture”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Culture”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -115,7 +115,7 @@ id="1.2"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 1, Section 2: How Did We Get Here? The
     Evolution of
-    Media”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Media”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -160,7 +160,7 @@ id="1.3"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 1, Section 3: How Did We Get Here? The
     Evolution of
-    Culture”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Culture”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -199,7 +199,7 @@ distinguish between the eras.*
     Communication*: “Chapter 1, Sections 4: Media Mix: Convergence”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 1, Sections 4: Media Mix:
-    Convergence”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Convergence”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -264,7 +264,7 @@ id="1.5"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 1, Section 5: Cultural Values Shape Media;
     Media Shape Cultural
-    Values”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Values”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -313,7 +313,7 @@ effectively.*
     Culture”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 1, Section 6: Mass Media and Popular
-    Culture”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Culture”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -358,7 +358,7 @@ information better.*
     Communication*: “Chapter 1, Section 7: Media Literacy”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 1, Section 7: Media
-    Literacy”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Literacy”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -412,43 +412,43 @@ individual accountability takes on even more importance.*
     Trends, and Theories”**
     Link: The Saylor Foundation’s [“COMM103 Assessment 1: Terms, Trends,
     and
-    Theories”](http://www.saylor.org/site/wp-content/uploads/2013/01/COMM103-Assessment-1-Terms-FINAL.pdf) (PDF)  
+    Theories”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/COMM103-Assessment-1-Terms-FINAL.pdf) (PDF)  
       
      Instructions: Complete this assessment.  When you have finished,
     you may check your answers against the Saylor Foundation’s [“COMM103
     Assessment 1 – Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2013/01/COMM103-Assessment-1-Answer-Key-FINAL.pdf) (PDF).
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/COMM103-Assessment-1-Answer-Key-FINAL.pdf) (PDF).
 
 -   **Assessment: The Saylor Foundation’s “COMM103 Assessment 3:
     Cultural Changes”**
     Link: The Saylor Foundation’s [“COMM103 Assessment 3: Cultural
-    Changes”](http://www.saylor.org/site/wp-content/uploads/2013/01/COMM103-Assessment-3-Cultural-Changes-FINAL.pdf) (PDF)  
+    Changes”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/COMM103-Assessment-3-Cultural-Changes-FINAL.pdf) (PDF)  
       
      Instructions: Complete this assessment.  When you have finished,
     you may check your answers against the Saylor Foundation’s [“COMM103
     Assessment 3 – Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2013/01/COMM103-Assessment-3-Answer-Key-FINAL.pdf) (PDF).
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/COMM103-Assessment-3-Answer-Key-FINAL.pdf) (PDF).
 
 -   **Assessment: The Saylor Foundation’s “COMM103 Assessment 4:
     Legislation and Regulation, Part 1”**
     Link: The Saylor Foundation’s [“COMM103 Assessment 4: Legislation
     and Regulation, Part
-    1”](http://www.saylor.org/site/wp-content/uploads/2013/01/COMM103-Assessment-4-1-Legislation-and-Regulation-FINAL.pdf) (PDF)  
+    1”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/COMM103-Assessment-4-1-Legislation-and-Regulation-FINAL.pdf) (PDF)  
       
      Instructions: Complete this assessment.  When you have finished,
     you may check your answers against the Saylor Foundation’s [“COMM103
     Assessment 4 Part 1 – Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2013/01/COMM103-Assessment-4-1-Answer-Key-FINAL.pdf) (PDF).
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/COMM103-Assessment-4-1-Answer-Key-FINAL.pdf) (PDF).
 
 -   **Assessment: The Saylor Foundation’s “COMM103 Assessment 5:
     Technology, Part 1”**
     Link: The Saylor Foundation’s [“COMM103 Assessment 5: Technology,
     Part
-    1”](http://www.saylor.org/site/wp-content/uploads/2013/01/COMM103-Assessment-5-1-Technology-FINAL.pdf) (PDF)  
+    1”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/COMM103-Assessment-5-1-Technology-FINAL.pdf) (PDF)  
       
      Instructions: Complete this assessment.  When you have finished,
     you may check your answers against the Saylor Foundation’s [“COMM103
     Assessment 5 – Answer Key, Part
-    1”](http://www.saylor.org/site/wp-content/uploads/2013/01/COMM103-Assessment-5-1-Answer-Key-FINAL.pdf) (PDF).
+    1”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/COMM103-Assessment-5-1-Answer-Key-FINAL.pdf) (PDF).
 
 
