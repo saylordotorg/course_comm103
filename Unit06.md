@@ -57,7 +57,7 @@ Upon completion of this unit, the student will be able to:
     Music”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 6, Section 1: The Evolution of Popular
-    Music”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Music”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Please focus on understanding the terms used in the
@@ -152,7 +152,7 @@ id="6.2"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 6, Section 2: The Reciprocal Nature of
     Music and
-    Culture”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Culture”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -192,7 +192,7 @@ id="6.3"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 6, Section 3: Current Popular Trends in
     the Music
-    Industry”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Industry”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Please focus on understanding the terms used in the
@@ -233,7 +233,7 @@ Downloading to Digital Music Stores** <span id="6.4"></span> 
     Technology”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 6, Section 4: Influence of New
-    Technology”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Technology”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Please focus on understanding the terms used in the

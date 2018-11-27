@@ -54,7 +54,7 @@ Upon completion of this unit, the student will be able to:
     Games”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 10, Section 1: The Evolution of Electronic
-    Games”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Games”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -196,7 +196,7 @@ may only be supplanted by new technology or new applications?*
     Games”**
     Reading: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 10, Section 2: Influential Contemporary
-    Games”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Games”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -250,7 +250,7 @@ Wikipedia for more information about them.*
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 10, Section 3: The Impact of Video Games
     on
-    Culture”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Culture”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -329,7 +329,7 @@ as art, and is this an important consideration?  Why or why not?*
     Communication*: “Chapter 10, Section 4: Controversial Issues”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 10, Section 4: Controversial
-    Issues”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Issues”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Please focus on understanding the terms used in the
@@ -374,7 +374,7 @@ Entertainment, and Communication** <span id="10.5"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication: *[“Chapter 10, Section 5: Blurring the Boundaries
     Between Video Games, Information, Entertainment, and
-    Communication”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Communication”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Please focus on understanding the terms used in the

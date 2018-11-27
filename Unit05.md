@@ -59,7 +59,7 @@ Upon completion of this unit, the student will be able to:
     Publishing”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 5, Section 1: History of Magazine
-    Publishing”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Publishing”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Focus on understanding the terms used in the readings
@@ -166,7 +166,7 @@ Culture** <span id="5.2"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 5, Section 2: The Role of Magazines in the
     Development of American Popular
-    Culture”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Culture”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Focus on understanding the terms used in the readings
@@ -228,7 +228,7 @@ id="5.3"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 5, Section 3: Major Publications in the
     Magazine
-    Industry”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Industry”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Please focus on understanding the terms used in the
@@ -299,7 +299,7 @@ id="5.4"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 5, Section 4: How Magazines Control the
     Public’s Access to
-    Information”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Information”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -346,7 +346,7 @@ a magazine publishes also a form of bias?  Why or why not?*
     Magazines”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 5, Section 5: Specialization of
-    Magazines”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Magazines”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -402,7 +402,7 @@ id="5.6"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 5, Section 6: Influence of the Internet on
     the Magazine
-    Industry”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Industry”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Please focus on understanding the terms used in the

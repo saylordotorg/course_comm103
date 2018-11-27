@@ -85,7 +85,7 @@ computer.
  √    Have competency in the English language.  
   
  √    Have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
+Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
   
  √    Have the ability to download and play iTunes resources.
 
@@ -101,7 +101,7 @@ Norman](http://www.saylor.org/faculty-h-n/#ProfessorPWynnNorman)
 two resources:  
 
 -   Readings: [*Understanding Media and Culture: An Introduction to Mass
-    Communication*](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Communication*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
 -   Lectures: Utah Valley State College: Phil Gordon’s *[COMM 1500:
     Introduction to Mass
     Communication](http://desource.uvu.edu/videos/comm1500.php)*
