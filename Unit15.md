@@ -62,7 +62,7 @@ id="15.1"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 16, Section 1: Changes in Media over the
     Last
-    Century”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Century”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -141,7 +141,7 @@ and may soon set about finding ways to satisfy it.*
     Methods”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 16, Section 2: Information Delivery
-    Methods”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Methods”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on relating the information and examples
@@ -168,7 +168,7 @@ and may soon set about finding ways to satisfy it.*
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 16, Section 3: Modern Media Delivery: Pros
     and
-    Cons”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Cons”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Please focus on understanding the terms used in the
@@ -215,7 +215,7 @@ specific delivery techniques.*
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 16, Section 4: Current Trends in
     Electronic
-    Media”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Media”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -262,7 +262,7 @@ id="15.5"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 16, Section 5: Privacy Laws and the Impact
     of Digital
-    Surveillance”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Surveillance”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -323,7 +323,7 @@ id="15.6"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 16, Section 6: Mass Media, New Technology,
     and the
-    Public”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Public”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the

@@ -59,7 +59,7 @@ Upon completion of this unit, the student will be able to:
     Broadcasting”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 7, Section 1: Evolution of Radio
-    Broadcasting”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Broadcasting”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -171,7 +171,7 @@ id="7.1.3.4"></span> 
     Communication*: “Chapter 7, Section 2: Radio Station Formats”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 7, Section 2: Radio Station
-    Formats”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Formats”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -236,7 +236,7 @@ enabling you to experience how these formats actually sound.*
     Communication*: “Chapter 7, Section 3: Radio’s Impact on Culture”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 7, Section 3: Radio’s Impact on
-    Culture”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Culture”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -316,7 +316,7 @@ them, even on a national scale?*
     Communication*: “Chapter 7, Section 4: Radio’s New Future”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 7, Section 4: Radio’s New
-    Future”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Future”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Please focus on understanding the terms used in the
@@ -376,11 +376,11 @@ id="7.4.3.2"></span> 
     Legislation and Regulation, Part 2”**
     Link: The Saylor Foundation’s [“COMM103 Assessment 4: Legislation
     and Regulation, Part
-    2”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/COMM103-Assessment-4-2-Legislation-and-Regulation-FINAL.pdf) (PDF)  
+    2”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/COMM103-Assessment-4-2-Legislation-and-Regulation-FINAL.pdf) (PDF)  
       
      Instructions: Complete this assessment.  When you have finished,
     you may check your answers against the Saylor Foundation’s [“COMM103
     Assessment 4 – Answer Key, Part
-    2”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/COMM103-Assessment-4-2-Answer-Key-FINAL.pdf) (PDF).
+    2”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/COMM103-Assessment-4-2-Answer-Key-FINAL.pdf) (PDF).
 
 

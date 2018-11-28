@@ -51,7 +51,7 @@ Upon completion of this unit, you will be able to:
     Media”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 14, Section 1: Ethical Issues in Mass
-    Media”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Media”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Focus on understanding the terms used in the readings
@@ -127,7 +127,7 @@ examples of ethical dilemmas involving the media.*
     Communication*: “Chapter 14, Section 2: News Media and Ethics”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 14, Section 2: News Media and
-    Ethics”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Ethics”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Please focus on understanding the terms used in the
@@ -214,7 +214,7 @@ id="13.3"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 14, Section 3: Ethical Considerations of
     the Online
-    World”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    World”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
