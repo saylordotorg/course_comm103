@@ -61,7 +61,7 @@ Upon completion of this unit, the student will be able to:
     Communication*: “Chapter 4, Section 1: History of Newspapers”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 4, Section 1: History of
-    Newspapers”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Newspapers”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Focus on understanding the terms used in the readings
@@ -157,7 +157,7 @@ id="4.2"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 4, Section 2: Different Styles and Models
     of
-    Journalism”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Journalism”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Focus on understanding the terms used in the readings
@@ -234,7 +234,7 @@ Impact American Pop Culture** <span id="4.3"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 4, Section 3: How Newspapers Control the
     Public’s Access to Information and Impact American Pop
-    Culture”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Culture”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -278,7 +278,7 @@ id="4.4"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 4, Section 4: Current Popular Trends in
     the Newspaper
-    Industry”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Industry”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Focus on understanding the terms used in the readings
@@ -341,7 +341,7 @@ beneficial or detrimental?  Why?*
     News”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 4, Section 5: Online Journalism Redefines
-    News”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    News”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Focus on understanding the terms used in the readings

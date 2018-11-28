@@ -44,7 +44,7 @@ Upon completion of this unit, the student will be able to:
     Messages”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 2, Section 1: Mass Media and Its
-    Messages”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Messages”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -160,7 +160,7 @@ reflects the relationship between new media and its impact on society?*
     Communication*: “Chapter 2, Section 2: Media Effects Theories”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 2, Section 2: Media Effects
-    Theories”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Theories”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Focus on understanding the terms used in the readings
@@ -215,7 +215,7 @@ examples from your own experiences.*
     Effects”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 2, Section 3: Methods of Researching Media
-    Effects”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Effects”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Focus on understanding the terms used in the readings
@@ -282,7 +282,7 @@ usefulness of research methods under various circumstances.*
     Controversies”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 2, Section 4: Media Studies
-    Controversies”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Controversies”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Focus on understanding the terms used in the readings
@@ -353,13 +353,13 @@ assessment of media decency and indecency?*
 -   **Assessment: The Saylor Foundation’s “COMM103 Assessment 2:
     Names”**
     Link: The Saylor Foundation’s [“COMM103 Assessment 2:
-    Names”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/COMM103-Assessment-2-Names-FINAL.pdf)
+    Names”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/COMM103-Assessment-2-Names-FINAL.pdf)
     (PDF)  
       
      Instructions: Complete this assessment.  When you have finished,
     you may check your answers against the Saylor Foundation’s [“COMM103
     Assessment 2 – Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/COMM103-Assessment-2-Answer-Key-FINAL.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/COMM103-Assessment-2-Answer-Key-FINAL.pdf)
     (PDF).
 
 

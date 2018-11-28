@@ -55,7 +55,7 @@ Upon completion of this unit, the student will be able to:
     Industries”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication: *[“Chapter 13, Section 1: Characteristics of Media
-    Industries”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Industries”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -158,7 +158,7 @@ id="12.2"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 13, Section 2: The Internet’s Effects on
     Media
-    Economies”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Economies”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -211,7 +211,7 @@ problematic for some.*
     Economy”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 13, Section 3: Digital Divide in a Global
-    Economy”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf) (PDF)  
+    Economy”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf) (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
     readings and how they drive the review of this unit.  In addition,
@@ -252,7 +252,7 @@ differences in the impact of the divide on different levels.*
     Communication*: “Chapter 13, Section 4: Information Economy”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 13, Section 4: Information
-    Economy”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Economy”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -336,7 +336,7 @@ use digital technology and/or the Internet for commerce.*
     Communication*: “Chapter 13, Section 5: Globalization of Media”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 13, Section 5: Globalization of
-    Media”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Media”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Please focus on understanding the terms used in the
@@ -375,7 +375,7 @@ cultural product.*
     Communication*: “Chapter 13, Section 6: Cultural Imperialism”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 13, Section 6: Cultural
-    Imperialism”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Imperialism”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the

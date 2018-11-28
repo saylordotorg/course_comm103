@@ -62,7 +62,7 @@ id="9.1"></span> 
     Television”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 9, Section 1: The Evolution of
-    Television”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Television”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Please focus on understanding the terms used in the
@@ -149,7 +149,7 @@ id="9.2"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication: *[“Chapter 9, Section 2: The Relationship Between
     Television and
-    Culture”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Culture”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -226,7 +226,7 @@ id="9.3"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 9, Section 3: Issues and Trends in the
     Television
-    Industry”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Industry”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -278,7 +278,7 @@ which might help you predict future changes in the media.*
     Technologies”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 9, Section 4: Influence of New
-    Technologies”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Technologies”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -334,11 +334,11 @@ id="9.4.2.1"></span> 
     Technology, Part 2”**
     Link: The Saylor Foundation’s [“COMM103 Assessment 5: Technology,
     Part
-    2”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/COMM103-Assessment-5-2-Technology-FINAL.pdf) (PDF)  
+    2”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/COMM103-Assessment-5-2-Technology-FINAL.pdf) (PDF)  
       
      Instructions: Complete this assessment.  When you have finished,
     you may check your answers against the Saylor Foundation’s [“COMM103
     Assessment 5 – Answer Key, Part
-    2”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/COMM103-Assessment-5-2-Answer-Key-FINAL.pdf) (PDF).
+    2”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/COMM103-Assessment-5-2-Answer-Key-FINAL.pdf) (PDF).
 
 

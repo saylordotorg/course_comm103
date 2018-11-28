@@ -49,7 +49,7 @@ Upon completion of this unit, the student will be able to:
     Communication*: “Chapter 8, Section 1: The History of Movies”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 8, Section 1: The History of
-    Movies”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Movies”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Please focus on understanding the terms used in the
@@ -169,7 +169,7 @@ id="8.1.7"></span> 
     Communication*: “Chapter 8, Section 2: Movies and Culture”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 8, Section 2: Movies and
-    Culture”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Culture”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Please focus on understanding the terms used in the
@@ -253,7 +253,7 @@ id="8.2.2.1"></span> 
     Communication*: “Chapter 8, Section 3: Issues and Trends in Film”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 8, Section 3: Issues and Trends in
-    Film”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Film”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Please focus on understanding the terms used in the
@@ -329,7 +329,7 @@ distribution as well as production.*
     Technology”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 8, Section 4: The Influence of New
-    Technology”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Technology”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Please focus on understanding the terms used in the

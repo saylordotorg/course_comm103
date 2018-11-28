@@ -72,7 +72,7 @@ Upon completion of this unit, the student will be able to:
     Communication*: “Chapter 3, Section 1: History of Books”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 3, Section 1: History of
-    Books”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Books”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (HTML)  
       
      Instructions: Focus on understanding the terms used in the readings
@@ -151,7 +151,7 @@ id="3.2"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 3, Section 2: Books and the Development of
     U.S. Popular
-    Culture”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Culture”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -194,7 +194,7 @@ culture which produced them.*
     Communication*: “Chapter 3, Section 3: Major Book Formats”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 3, Section 3: Major Book
-    Formats”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Formats”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -230,7 +230,7 @@ with the other formats presented in these subunits.*
     Communication*: “Chapter 3, Section 4: Current Publishing Trends”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 3, Section 4: Current Publishing
-    Trends”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Trends”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -273,7 +273,7 @@ retaining the information you have received.*
     Technology”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 3, Section 5: The Influence of New
-    Technology”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Technology”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Focus on understanding the terms used in the readings

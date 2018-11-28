@@ -50,7 +50,7 @@ Upon completion of this unit, the student will be able to:
     Internet”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 11, Section 1: The Evolution of the
-    Internet”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Internet”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Please focus on understanding the terms used in the
@@ -140,7 +140,7 @@ Usenet** <span id="11.1.2.1"></span> 
     Communication*: “Chapter 11, Section 2: Social Media and Web 2.0”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 11, Section 2: Social Media and Web
-    2.0”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    2.0”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please focus on understanding the terms used in the
@@ -214,7 +214,7 @@ and Interpersonal Communication** <span id="11.3"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 11, Section 3: The Effects of the Internet
     and Globalization on Popular Culture and Interpersonal
-    Communication”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Communication”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Please focus on understanding the terms used in the
@@ -309,7 +309,7 @@ relationship.*
     Communication*: “Chapter 11, Section 4: Issues and Trends”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 11, Section 4: Issues and
-    Trends”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Trends”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
         
      Instructions: Please focus on understanding the terms used in the
